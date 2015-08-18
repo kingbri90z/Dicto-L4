@@ -1,1 +1,3 @@
-Small Dctionary App written in Laravel - CRUD demonstration
+##Synopsis
+
+Small Dictionary App written in Laravel 4 - CRUD demonstration
